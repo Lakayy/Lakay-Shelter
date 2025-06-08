@@ -44,8 +44,7 @@ When validation fails, clear and helpful messages explain the issue and suggest 
 Requirements:
 
 - Python 3.6 or higher
-- Install dependencies with:
-pip install cryptography bcrypt
+- Install dependencies with: pip install cryptography bcrypt
 
 ---
 
