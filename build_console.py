@@ -5,7 +5,7 @@ import os
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 PyInstaller.__main__.run([
-    'v1.1.py',
+    'v1.2.py',   # Add the good v1.x as you want
     '--name=Lakay Shelter',
     '--onefile',
     '--console',  # Console mode since it's a CLI application
